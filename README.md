@@ -43,7 +43,7 @@ location ~* "\.(css|js)$" {
 
 
 ## How to extend with new technologies
-You can create you own server with this code
+You can create your own server with this code
 ```js
 require('borschik-server').server({
     port: 8055,
